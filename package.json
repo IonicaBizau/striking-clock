@@ -1,4 +1,7 @@
 {
+  "bin": {
+    "striking-clock": "bin/striking-clock.js"
+  },
   "name": "striking-clock",
   "description": "A small cli to simulate a striking clock.",
   "keywords": [
@@ -39,5 +42,12 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/striking-clock/issues"
+  },
+  "dependencies": {
+    "daty": "^1.2.0",
+    "map-o": "^2.0.9",
+    "spawno": "^2.1.0",
+    "tilda": "^4.4.15",
+    "ul": "^5.2.14"
   }
 }
