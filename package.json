@@ -3,7 +3,7 @@
     "striking-clock": "bin/striking-clock.js"
   },
   "name": "striking-clock",
-  "description": "A small cli to simulate a striking clock.",
+  "description": "Build striking clock systems with JavaScript.",
   "keywords": [
     "striking",
     "clock",
